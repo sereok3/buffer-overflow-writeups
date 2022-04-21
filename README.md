@@ -7,9 +7,11 @@ NETGEAR R6700v3[Linux] - CVE-2022-27643 https://research.nccgroup.com/2022/02/28
 pkexec[Linux] - CVE-2021-4034 https://blog.qualys.com/vulnerabilities-threat-research/2022/01/25/pwnkit-local-privilege-escalation-vulnerability-discovered-in-polkits-pkexec-cve-2021-4034
 Kernel[Linux] - CVE-2021-26708 https://a13xp0p0v.github.io/2021/02/09/CVE-2021-26708.html
 QEMU[Linux] - CVE-2021-3409 https://starlabs.sg/advisories/21-3409/
+sudo[Linux] - CVE-2021-3156 https://www.youtube.com/watch?v=TLa2VqcGGEQ&list=PLhixgUqwRTjy0gMuT4C3bmjeZjuNQyqdx
 
 ###  CVE 2020
 bluetooth[Linux] - CVE-2020-24490 CVE-2020-12351 CVE-2020-12351 https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html
+Kernel[Windows] - CVE-2021-21551 https://connormcgarr.github.io/cve-2020-21551-sploit/
 
 ###  CVE 2019
 nipper[Linux] - CVE-2019-17424  https://whtaguy.com/2019/10/20/Stack-Overflow-CVE-2019-17424-Vulnerability-Write-Up-and-RCE-Exploit-Walk-Through.html
@@ -25,3 +27,4 @@ exim[Linux] - CVE-2018-6789 https://devco.re/blog/2018/03/06/exim-off-by-one-RCE
 ###  CVE 2016
 - ffmpeg[Linux] - CVE-2016-10190 https://nandynarwhals.org/cve-2016-10190/
 
+if you know more good writeups you can report them to me :)
