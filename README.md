@@ -14,7 +14,8 @@ sudo[Linux] - CVE-2021-3156 https://www.youtube.com/watch?v=TLa2VqcGGEQ&list=PLh
 
 ###  CVE 2020
 bluetooth[Linux] - CVE-2020-24490 CVE-2020-12351 CVE-2020-12351 https://google.github.io/security-research/pocs/linux/bleedingtooth/writeup.html
-Kernel[Windows] - CVE-2021-21551 https://connormcgarr.github.io/cve-2020-21551-sploit/
+Kernel[Windows] - CVE-2020-21551 https://connormcgarr.github.io/cve-2020-21551-sploit/
+Kernel[Windows] - CVE-2020-12138 https://h0mbre.github.io/atillk64_exploit/#
 
 ###  CVE 2019
 nipper[Linux] - CVE-2019-17424  https://whtaguy.com/2019/10/20/Stack-Overflow-CVE-2019-17424-Vulnerability-Write-Up-and-RCE-Exploit-Walk-Through.html
