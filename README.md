@@ -5,6 +5,7 @@ NETGEAR R6700v3[Linux] - CVE-2022-27643 https://research.nccgroup.com/2022/02/28
 
 ###  CVE 2021
 pkexec[Linux] - CVE-2021-4034 https://blog.qualys.com/vulnerabilities-threat-research/2022/01/25/pwnkit-local-privilege-escalation-vulnerability-discovered-in-polkits-pkexec-cve-2021-4034
+
 Kernel[Linux] - CVE-2021-26708 https://a13xp0p0v.github.io/2021/02/09/CVE-2021-26708.html
 QEMU[Linux] - CVE-2021-3409 https://starlabs.sg/advisories/21-3409/
 sudo[Linux] - CVE-2021-3156 https://www.youtube.com/watch?v=TLa2VqcGGEQ&list=PLhixgUqwRTjy0gMuT4C3bmjeZjuNQyqdx
