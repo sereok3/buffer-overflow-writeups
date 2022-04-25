@@ -23,6 +23,7 @@ Cisco RV110 + RV130 + RV225[Linux] CVE-2019-1663 https://quentinkaiser.be/exploi
 
 ###  CVE 2018
 exim[Linux] - CVE-2018-6789 https://devco.re/blog/2018/03/06/exim-off-by-one-RCE-exploiting-CVE-2018-6789-en/
+RouterOS[Linux] - CVE-2018-7445 https://medium.com/@maxi./finding-and-exploiting-cve-2018-7445-f3103f163cc1
 
 ###  CVE 2017
 
